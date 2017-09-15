@@ -1,2 +1,2 @@
 # Java-Labs
-Challenges, labs, problems, and presentations, with Java
+Challenges, labs, problems, and presentations, with Java.
